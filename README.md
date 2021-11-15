@@ -1,1 +1,1 @@
-# Python-Set
+Reading words into a keyboard until "stop" has been entered.(Include some duplicate words when you enter them.) Then, display the number of unique words that were entered, followed by a list of words.
